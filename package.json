@@ -1,0 +1,43 @@
+{
+  "name": "webpack-adminlte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirin-yuen/webpack-adminlte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirin-yuen/webpack-adminlte/issues"
+  },
+  "homepage": "https://github.com/kirin-yuen/webpack-adminlte#readme",
+  "devDependencies": {
+    "admin-lte": "^3.0.0-alpha.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "font-awesome": "^4.7.0",
+    "html-webpack-plugin": "^3.2.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.0",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
